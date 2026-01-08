@@ -10,4 +10,5 @@ public class VariableTypes
     public double Height = 6.2;
 
     public bool IsIndoorPet = true;
+    
 }
